@@ -1,11 +1,11 @@
 {
 	"error": false,
 	"version": "twelve_plus",
-	"filename": "PixelExperience_Plus_hotdog-12.1-20220524-1128-UNOFFICIAL",
-	"datetime": 1653391680,
-	"size": 1928088562,
-	"url": "https:\/\/master.dl.sourceforge.net\/project\/pe12-1\/hotdog\/PixelExperience_Plus_hotdog-12.1-20220524-1128-UNOFFICIAL?viasf=1",
-	"filehash": "303759e606f5b012075d402d1a292a65",
+	"filename": "PixelExperience_Plus_hotdog-12.1-20220602-1111-UNOFFICIAL",
+	"datetime": 1654168260,
+	"size": 1913766103,
+	"url": "https:\/\/master.dl.sourceforge.net\/project\/pe12-1\/hotdog\/PixelExperience_Plus_hotdog-12.1-20220602-1111-UNOFFICIAL.zip?viasf=1",
+	"filehash": "bb83eafa66b54dbf7fed3f8ae95a3aa4",
 	"id": "d0fabc0832fee780d96f5bd27a2d790c",
 	"maintainers": [{
 		"main_maintainer": false,
