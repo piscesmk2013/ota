@@ -1,12 +1,12 @@
 {
 	"error": false,
 	"version": "twelve_plus",
-	"filename": "PixelExperience_Plus_hotdog-12.1-20220910-0440-UNOFFICIAL",
-	"datetime": 1662784800,
-	"size": 1926802503,
-	"url": "https:\/\/master.dl.sourceforge.net\/project\/pe12-1\/hotdog(7TPro)\/PixelExperience_Plus_hotdog-12.1-20220910-0440-UNOFFICIAL.zip?viasf=1",
-	"filehash": "b3316e2f58f83797cacbcec053873e97",
-	"id": "d0fabc0832fee780d96f5bd27a2d790c",
+	"filename": "PixelExperience_Plus_hotdogb-12.1-20220910-0646-UNOFFICIAL",
+	"datetime": 1662792360,
+	"size": 1925471266,
+	"url": "https:\/\/master.dl.sourceforge.net\/project\/pe12-1\/hotdogb(7T)\/PixelExperience_Plus_hotdogb-12.1-20220910-0646-UNOFFICIAL.zip?viasf=1",
+	"filehash": "fc92239ffd48d5180da7d6643462e77a",
+	"id": "cdfaa67b471c3336a8f8a6801396cfde",
 	"maintainers": [{
 		"main_maintainer": false,
 		"github_username": "Just Pisces",
