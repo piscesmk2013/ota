@@ -1,11 +1,11 @@
 {
 	"error": false,
-	"version": "twelve_plus",
-	"filename": "PixelExperience_Plus_hotdogb-12.1-20220910-0646-UNOFFICIAL",
-	"datetime": 1662792360,
-	"size": 1925471266,
-	"url": "https:\/\/master.dl.sourceforge.net\/project\/pe12-1\/hotdogb(7T)\/PixelExperience_Plus_hotdogb-12.1-20220910-0646-UNOFFICIAL.zip?viasf=1",
-	"filehash": "fc92239ffd48d5180da7d6643462e77a",
+	"version": "thirteen_plus",
+	"filename": "PixelExperience_Plus_hotdogb-13.0-20221111-1549-UNOFFICIAL",
+	"datetime": 1668181740,
+	"size": 2015580724,
+	"url": "https:\/\/master.dl.sourceforge.net\/project\/justpe\/A13\/7T\/PixelExperience_Plus_hotdogb-13.0-20221111-1549-UNOFFICIAL.zip?viasf=1",
+	"filehash": "1fd4e6090bd4e7c612a97ca61eee9d60",
 	"id": "cdfaa67b471c3336a8f8a6801396cfde",
 	"maintainers": [{
 		"main_maintainer": false,
@@ -15,5 +15,5 @@
 	"donate_url": "https:\/\/bit.ly\/pixelexperiencedonate",
 	"website_url": "https:\/\/download.pixelexperience.org",
 	"news_url": "https:\/\/t.me\/PixelExperience",
-	"forum_url": "https:\/\/www.coolapk.com\/feed\/36135105?shareKey=MzZhMTE5ZTdhYWExNjJiMzBjYTE~&shareUid=417433&shareFrom=com.coolapk.market_12.3.1"
+	"forum_url": "https:\/\/www.coolapk.com\/feed\/39325125?shareKey=Zjk3OWVhMWFjMTFmNjM2NTBiOWI~&shareUid=417433&shareFrom=com.coolapk.market_12.5.0"
 }
