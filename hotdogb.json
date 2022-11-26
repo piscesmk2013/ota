@@ -1,16 +1,16 @@
 {
 	"error": false,
 	"version": "thirteen_plus",
-	"filename": "PixelExperience_Plus_hotdogb-13.0-20221113-1608-UNOFFICIAL",
-	"datetime": 1668355680,
-	"size": 2015655858,
-	"url": "https:\/\/master.dl.sourceforge.net\/project\/justpe\/A13\/7T\/PixelExperience_Plus_hotdogb-13.0-20221113-1608-UNOFFICIAL.zip?viasf=1",
-	"filehash": "38172d1e46491fce201cfed02584f932",
+	"filename": "PixelExperience_Plus_hotdogb-13.0-20221126-1534-UNOFFICIAL",
+	"datetime": 1669448040,
+	"size": 2017739615,
+	"url": "https:\/\/master.dl.sourceforge.net\/project\/justpe\/A13\/7T\/PixelExperience_Plus_hotdogb-13.0-20221126-1534-UNOFFICIAL.zip?viasf=1",
+	"filehash": "c889746badf7306d1bf17b1933a38e52",
 	"id": "cdfaa67b471c3336a8f8a6801396cfde",
 	"maintainers": [{
 		"main_maintainer": false,
-		"github_username": "Just Pisces",
-		"name": "Just Pisces"
+		"github_username": "Just_Pisces",
+		"name": "Just_Pisces"
 	}],
 	"donate_url": "https:\/\/bit.ly\/pixelexperiencedonate",
 	"website_url": "https:\/\/download.pixelexperience.org",
