@@ -1,15 +1,15 @@
 {
 	"error": false,
 	"version": "thirteen_plus",
-	"filename": "PixelExperience_Plus_guacamole-13.0-20230503-2037-UNOFFICIAL",
-	"datetime": 1683117420,
-	"size": 2038523916,
-	"url": "https:\/\/master.dl.sourceforge.net\/project\/justpe\/A13\/7Pro\/PixelExperience_Plus_guacamole-13.0-20230503-2037-UNOFFICIAL.zip?viasf=1",
-	"filehash": "b64160ab331910cba935f8cb36b6e52b",
+	"filename": "PixelExperience_Plus_guacamole-13.0-20230610-2056-UNOFFICIAL",
+	"datetime": 1686401760,
+	"size": 2060526017,
+	"url": "https:\/\/master.dl.sourceforge.net\/project\/justpe\/A13\/7Pro\/PixelExperience_Plus_guacamole-13.0-20230610-2056-UNOFFICIAL.zip?viasf=1",
+	"filehash": "4dacd7514e640bcf88596e32611548c4",
 	"id": "6585cee25ecbd8041945b2fc9904dad6",
 	"maintainers": [{
 		"main_maintainer": false,
-		"github_username": "Just_Pisces",
+		"ci_username": "Just_Pisces",
 		"name": "Just_Pisces"
 	}],
 	"donate_url": "https:\/\/bit.ly\/pixelexperiencedonate",
